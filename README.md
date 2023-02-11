@@ -1,2 +1,2 @@
 # DevOps_Training classes
-learning Git
+learning Git from GitHub
