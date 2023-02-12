@@ -1,2 +1,4 @@
 this is a new file6
 adding a new line
+git fetch - will get the reference changes from the repository
+git pull - will get the changes from the current branch
